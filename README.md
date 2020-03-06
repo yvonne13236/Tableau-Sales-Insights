@@ -1,2 +1,2 @@
 # Tableau-Sales-Insights
-Script for Data Processing and Sales Insights 
+Python script for Data Processing and Tableau workbook for Sales Insights 
